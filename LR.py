@@ -1,3 +1,4 @@
+#using iris data from sklearn
 import sklearn as sk
 import numpy as np
 
